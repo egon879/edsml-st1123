@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Shengzhi Tian.
-- 👀 I’m interested in Speech Synthesis, Environmental Modelling.
+- 👀 I’m interested in GenAI, Stable Diffusion, Spatial-temporal forcasting etc.
 - 📫 How to reach me: tsz20011122@gmail.com
 
 [![ShengzhiTian's GitHub | Stats](https://stats.quine.sh/ShengzhiTian/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShengzhiTian)
